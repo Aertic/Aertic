@@ -4,5 +4,4 @@
 - 🌴 Discord Bot Developer
 - 🍯 Website Developer
 - 🕯️ My favourite language is JS 
-> Text that is a quote
 </div>
