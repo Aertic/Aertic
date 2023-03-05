@@ -1,4 +1,4 @@
-#### Aertic
+# Hi there, I'm Aertic 👋
 
 <!--
 **Aertic/Aertic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
