@@ -1,8 +1,8 @@
 # Hi there, I'm Aertic 👋
 ### Here is some Basic information about me!
 <div align="left">
-> 🌴 Discord Bot Developer
-> 🍯 Website Developer
-> 🕯️ My favourite language is JS 
+> s🌴 Discord Bot Developer
+> s🍯 Website Developer
+> s🕯️ My favourite language is JS 
   
 </div>
