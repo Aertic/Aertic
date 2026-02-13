@@ -124,7 +124,7 @@ Welcome to my profile! I'm a passionate **Full Stack Developer** specializing in
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="64" height="64" alt="Polar Lab"/>
       <br><strong><a href="https://polarlab.app">Polar Lab</a></strong>
-      <br>Main website and Discord bot dashboard
+      <br>Main website with Discord bot dashboard
       <br>
       <a href="https://polarlab.app"><img src="https://img.shields.io/badge/Visit_Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a>
     </td>
@@ -136,7 +136,7 @@ Welcome to my profile! I'm a passionate **Full Stack Developer** specializing in
       <a href="https://docs.polarlab.app"><img src="https://img.shields.io/badge/Read_Docs-10B981?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Read Docs"/></a>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/chatbot.png" width="64" height="64" alt="Polaris V3"/>
+      <img src="https://img.icons8.com/fluency/96/000000/chatbot.png" width="64" height="64" alt="Blog"/>
       <br><strong><a href="https://blog.polarlab.app">Blog</a></strong>
       <br>Articles and updates about projects
       <br>
