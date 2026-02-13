@@ -23,18 +23,37 @@ Welcome to my profile! I'm a passionate **Full Stack Developer** specializing in
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
+### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Databases & Tools**
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Databases & ORMs**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -98,11 +117,55 @@ Welcome to my profile! I'm a passionate **Full Stack Developer** specializing in
 
 ## 🌟 Featured Projects
 
+### 🔷 **Polar Lab Ecosystem**
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="64" height="64" alt="Polar Lab"/>
+      <br><strong><a href="https://polarlab.app">Polar Lab</a></strong>
+      <br>Main website and Discord bot dashboard
+      <br>
+      <a href="https://polarlab.app"><img src="https://img.shields.io/badge/Visit_Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/document.png" width="64" height="64" alt="Polar Lab Docs"/>
+      <br><strong><a href="https://docs.polarlab.app">Polar Lab Docs</a></strong>
+      <br>Documentation for Discord bot and projects
+      <br>
+      <a href="https://docs.polarlab.app"><img src="https://img.shields.io/badge/Read_Docs-10B981?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Read Docs"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/chatbot.png" width="64" height="64" alt="Polaris V3"/>
+      <br><strong><a href="https://blog.polarlab.app">Blog</a></strong>
+      <br>Articles and updates about projects
+      <br>
+      <a href="https://blog.polarlab.app"><img src="https://img.shields.io/badge/Read_Blog-8B5CF6?style=for-the-badge&logo=blogger&logoColor=white" alt="Read Blog"/></a>
+    </td>
+  </tr>
+</table>
+
+### 🤖 **Polaris V3**
+
+The third iteration of my multipurpose Discord bot, featuring:
+- 🎮 Advanced moderation and automation tools
+- 📊 Server analytics and logging
+- 🎵 Music playback capabilities
+- 💬 Custom commands and interactions
+- 🔧 Comprehensive dashboard for easy configuration
+
+<div align="center">
+
+[![Polaris V3](https://img.shields.io/badge/Polaris_V3-Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://polarlab.app)
+[![Dashboard](https://img.shields.io/badge/View_Dashboard-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://polarlab.app)
+
+</div>
+
+---
+
 <div align="center">
 
 Most of my projects are available under the **[polarlab-app](https://github.com/polarlab-app)** organization!
-
-[![Website](https://img.shields.io/badge/Visit-polarlab.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://polarlab.app/)
 
 </div>
 
