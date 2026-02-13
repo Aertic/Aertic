@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Discord Bot Creator | IT Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+awesome+web+applications;Creating+powerful+Discord+bots;Exploring+new+technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+awesome+web+applications;Creating+powerful+Discord+bots;Exploring+new+technologies" alt="Typing SVG" />
 
 </div>
 
@@ -34,7 +34,7 @@ Welcome to my profile! I'm a passionate **Full Stack Developer** specializing in
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 
 ---
 
